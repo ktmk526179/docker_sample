@@ -1,1 +1,1 @@
-
+FROM centos:latest
